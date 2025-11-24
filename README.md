@@ -3,8 +3,8 @@
 
 ### How to İnstall
 ```
-ensure qbx-motel
-sql click and install
+ensure qbx-motel 
+--- Import the provided sql.sql file
 ```
 # Dependencies
 - [qbx_core](https://github.com/CommunityOx/ox_lib)
