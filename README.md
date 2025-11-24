@@ -3,7 +3,7 @@
 
 ### How to İnstall
 ```
-ensure qbx-motel 
+ensure m-motel
 --- Import the provided sql.sql file
 ```
 # Dependencies
