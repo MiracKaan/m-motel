@@ -1,4 +1,4 @@
-# Mirage-MOTEL
+# m-motel
 - This is a simple motel system I made for qbox. I'm sharing it for everyone who wants to benefit from it.
 
 ### How to İnstall
